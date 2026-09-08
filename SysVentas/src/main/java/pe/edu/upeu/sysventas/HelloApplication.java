@@ -1,4 +1,4 @@
-package pe.edu.epeu.sysventas;
+package pe.edu.upeu.sysventas;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
